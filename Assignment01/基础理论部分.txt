@@ -3,8 +3,10 @@ Ans: {自动驾驶/推荐系统/语音识别}
 
 1. How do we use Github; Why do we use Jupyter and Pycharm;
 Ans: {git remote, git clone, git commit, git push/pull, git diff, git branch *}
-     {Jupyter notebook 为交互式编程环境，基于web且能很好的支持python及其他python组件。用于教学最大的好处是可以实时的展示输出结果，对数学公式的支持也很好，交互式的体验很好。web端的模式方便远程操作，也是很多公司面试测试时用的工具。}
-     {Pycharm 用于python的IDE，其支持了大量的python库和git。对于文件管理与项目管理也比其他的IDE要友好，同时支持的编程语言也很丰富。名气很大，总之大家都用，功能很多，有这一个就够了～～}
+     {Jupyter notebook 为交互式编程环境，基于web且能很好的支持python及其他python组件。用于教学最大的好处是可以实时的展示输出结果，
+     对数学公式的支持也很好，交互式的体验很好。web端的模式方便远程操作，也是很多公司面试测试时用的工具。}
+     {Pycharm 用于python的IDE，其支持了大量的python库和git。对于文件管理与项目管理也比其他的IDE要友好，同时支持的编程语言也很丰富。
+     名气很大，总之大家都用，功能很多，有这一个就够了～～}
 2. What's the Probability Model? 概率模型
 Ans:
 
